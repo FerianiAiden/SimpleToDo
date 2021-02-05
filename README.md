@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Encounted an issue regarding the emulator not being able to power back on after using power button, but was
+resolved by running a coldboot on virtual device. 
 
 ## License
 
